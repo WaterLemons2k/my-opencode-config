@@ -1,0 +1,17 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "repo": {
+    "owner": "WaterLemons2k",
+    "name": "my-opencode-config",
+    "branch": "main"
+  },
+  "includeSecrets": false,
+  "includeMcpSecrets": false,
+  "includeSessions": false,
+  "includePromptStash": false,
+  "includeModelFavorites": true,
+  "includeOpencodeSkills": true,
+  "includeAgentsDir": true,
+  "extraSecretPaths": [],
+  "extraConfigPaths": []
+}
