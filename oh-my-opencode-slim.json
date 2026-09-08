@@ -16,13 +16,13 @@
         "mcps": []
       },
       "librarian": {
-        "model": "opencode/deepseek-v4-flash-free",
+        "model": "opencode/ling-3.0-flash-fin-free",
         "variant": "low",
         "skills": [],
         "mcps": ["websearch", "context7", "gh_grep"]
       },
       "explorer": {
-        "model": "opencode/deepseek-v4-flash-free",
+        "model": "opencode/nemotron-3.5-lightning-free",
         "variant": "low",
         "skills": [],
         "mcps": []
@@ -34,13 +34,13 @@
         "mcps": []
       },
       "fixer": {
-        "model": "opencode/deepseek-v4-flash-free",
+        "model": "opencode/ling-3.0-flash-fin-free",
         "variant": "low",
         "skills": [],
         "mcps": []
       },
       "observer": {
-        "model": "opencode/deepseek-v4-flash-free",
+        "model": "opencode/nemotron-3.5-lightning-free",
         "skills": [],
         "mcps": []
       }
